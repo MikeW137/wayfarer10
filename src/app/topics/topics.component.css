@@ -1,0 +1,35 @@
+.box {
+  display: flex;
+  text-align: center;
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.one {
+  flex: 1 1 auto;
+  padding: 50px 50px 50px 50px;
+}
+
+.two {
+  flex: 1 1 auto;
+  padding: 50px 50px 50px 50px;
+}
+
+.three {
+  flex: 1 1 auto;
+  padding: 50px 50px 50px 50px;
+}
+
+.four {
+  flex: 1 1 auto;
+  padding: 50px 50px 50px 50px;
+}
+
+p {
+  font-size: medium;
+}
+
+div {
+
+}
